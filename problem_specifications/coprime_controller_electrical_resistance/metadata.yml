@@ -1,0 +1,18 @@
+key: PMD9H
+predecessor_key: ''
+type: problem_specification
+name: 'control the temperature of the resistor to 310K'
+short_description: 'to be done'
+version: 0.1.0
+tag_list:
+    - ''
+# this should be corrected but I do not want to pulish private data without consent
+creator: 'A student supervised by Carsten Knoll <carsten.knoll{ät}posteo.de>'
+editor_list:
+    - ''
+creation_date: '2020-12-29'
+external_references: ''
+problem_file: problem.py
+notes: 'Created during a student project'
+problemclass_list:
+    - ''
